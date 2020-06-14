@@ -1,0 +1,91 @@
+/* body {
+  background-color: aquamarine;
+}
+
+
+.column1 {
+  float: left;
+  width: 50%;
+  padding-left: 400px;
+ 
+}
+.column2 {
+  float: left;
+  padding-right: 100px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} */
+
+/* .feed {
+  height: 100px;
+  width: 100px;
+  border: 1px solid BLACK;
+  margin: 0px;
+  padding: 0px;
+} */
+
+/* .feedname {
+  padding-bottom: 20px;
+} */
+
+body {
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  margin-left: 30px;
+}
+/* .App {
+  text-align: center;
+  align-items: center;
+} */
+.Home {
+  margin: 10px 10px;
+  height: 120px;
+  width: 120px;
+  border: 1px solid black;
+
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  align-items: center;
+  float: left;
+}
+
+.Home-description {
+  float: left;
+}
+
+select {
+  height: 40px;
+  width: 250px;
+  margin-left: 90px;
+  margin-top: 30px;
+}
+
+.color input {
+  height: 30px;
+  width: 500px;
+  /* margin-left: 160px;
+  margin-top: 20px; */
+}
+.description textarea {
+  height: 100px;
+  width: 250px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+button {
+  height: 40px;
+  width: 90px;
+  margin-top: 40px;
+  background-color: #b0e2e8;
+  border-radius: 2px;
+  border: 1px solid black;
+  margin-bottom: 60px;
+}
+.cancel button {
+  margin-left: 40px;
+}
